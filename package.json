@@ -1,13 +1,13 @@
 {
   "private": false,
-  "displayName": "Homebridge Kumo",
-  "name": "homebridge-kumo",
+  "displayName": "Homebridge Kumo Canadian Edition",
+  "name": "homebridge-kumo-canada",
   "version": "1.10.3",
-  "description": "Connect to devices on Kumo cloud.",
+  "description": "Connect to devices on Kumo cloud (Canadian edition, uses mesca-prod endpoint).",
   "license": "Apache-2.0",
-  "repository": "github:fjs21/homebridge-kumo",
+  "repository": "github:jamesrf/homebridge-kumo",
   "bugs": {
-    "url": "https://github.com/fjs21/homebridge-kumo/issues"
+    "url": "https://github.com/jamesrf/homebridge-kumo/issues"
   },
   "engines": {
     "node": ">=14.18.1",
@@ -41,9 +41,5 @@
     "rimraf": "^3.0.2",
     "ts-node": "^10.0.0",
     "typescript": "^4.2.2"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/fjs21"
   }
 }
