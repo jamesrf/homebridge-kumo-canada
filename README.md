@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://github.com/homebridge/branding/raw/master/logos/homebridge-wordmark-logo-vertical.png" width="150"><br/>
 <img src="https://assets.ifttt.com/images/channels/2147036620/icons/large.png" width="150">
 </p>
-
 
 # Homebridge Kumo
 [![Downloads](https://badgen.net/npm/dt/homebridge-kumo)](https://www.npmjs.com/package/homebridge-kumo)
@@ -11,6 +9,9 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/fjs21/homebridge-kumo)](https://github.com/fjs21/homebridge-kumo/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/fjs21/homebridge-kumo)](https://github.com/fjs21/homebridge-kumo/pulls)
+
+## Note on Canadian Edition
+I believe in the US they now use "Comfort" app, but it is not available in iOS App Store in Canada, instead must use the Kumo App.  Changing the hostnames worked for me which I tried based on a comment in this PyKumo issue https://github.com/dlarrick/pykumo/issues/62
 
 ## Kumo device support for [Homebridge](https://homebridge.io).
 `homebridge-kumo` is a [Homebridge](https://homebridge.io) plugin that makes Kumo-enabled devices available to [Apple's](https://www.apple.com) [HomeKit](https://www.apple.com/ios/home) smart home platform. This plugin enables control of Mitsubishi's [kumo cloud](https://www.mitsubishicomfort.com/kumocloud) and currently supports Minisplit units via the offical WiFi accesory.
