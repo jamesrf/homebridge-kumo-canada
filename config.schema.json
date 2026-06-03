@@ -2,7 +2,7 @@
   "pluginAlias": "Kumo",
   "pluginType": "platform",
   "singular": true,
-  "headerDisplay": "Kumo Devices are exposed following login to the kumo cloud. All devices on every site should be listed in the Home app following successful login.",
+  "headerDisplay": "Kumo Canadian Edition — uses mesca-prod.kumocloud.com endpoint. Devices are exposed following login to the kumo cloud. All devices on every site should be listed in the Home app following successful login.",
   "footerDisplay": "Direct connection is much faster but experimental at the moment.",
   "schema": {
     "type": "object",
